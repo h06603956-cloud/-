@@ -42,7 +42,8 @@ jobs:
           
           WIN10_ISO_URL="https://archive.org/download/WindowsVersionsArchive/Windows10EnterpriseLTSC2021_x64.iso"
           VIRTIO_URL="https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.262-2/virtio-win-0.1.262.iso"
-          SPICE_URL="https://www.spice-space.org/download/windows/spice-guest-tools/spice-guest-tools-latest.iso"
+          # Исправленная стабильная ссылка на Spice Guest Tools вместо "latest"
+          SPICE_URL="https://www.spice-space.org/download/windows/spice-guest-tools/spice-guest-tools-0.164/spice-guest-tools-0.164.iso"
           SHAREDGL_URL="https://github.com/dmaivel/sharedgl/releases/download/v0.10.0/sharedgl-v0.10.0-windows.zip"
           CHROME_URL="https://www.softportal.com/getsoft-7868-google-chrome-1.html"
 
